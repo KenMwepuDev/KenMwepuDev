@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KenMwepuDev
+- 👋 Hi, I’m Ken Mwepu
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning AI and advanced mobile development
-- 💞️ I’m looking to collaborate on Opensource project
+- 💞️ I’m available to collaborate on Opensource project
 - 📫 kabange.ken@outlook.com
 
 <!---
