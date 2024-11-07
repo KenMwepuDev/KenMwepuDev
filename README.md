@@ -55,5 +55,4 @@ I do .NET development and HTML, CSS, JS, Tailwind and Bootstrap for web projects
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/KenMwepuDev"><img src="https://github-readme-stats.vercel.app/api?username=KenMwepuDev&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="KenMwepuDev's GitHub stats" /></a><a href="https://github.com/KenMwepuDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenMwepuDev&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    </a></p>
